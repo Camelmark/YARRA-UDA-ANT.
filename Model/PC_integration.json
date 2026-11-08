@@ -1,0 +1,64 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "R_O",
+         "type": "float",
+         "value": 6.0
+      },
+      {
+         "name": "R_I",
+         "type": "float",
+         "value": 1.0
+      },
+      {
+         "name": "Center",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "Ele",
+         "type": "float",
+         "value": 545.0
+      },
+      {
+         "name": "REFL",
+         "type": "float",
+         "value": 530.0
+      },
+      {
+         "name": "DRIV",
+         "type": "float",
+         "value": 430.0
+      },
+      {
+         "name": "B_O",
+         "type": "float",
+         "value": 9.0
+      },
+      {
+         "name": "B_I",
+         "type": "float",
+         "value": 8.0
+      },
+      {
+         "name": "Z",
+         "type": "float",
+         "value": 20.0
+      },
+      {
+         "name": "IZ",
+         "type": "float",
+         "value": 5.0
+      },
+      {
+         "name": "W",
+         "type": "float",
+         "value": 10.0
+      }
+   ],
+   "outputVariables": []
+}

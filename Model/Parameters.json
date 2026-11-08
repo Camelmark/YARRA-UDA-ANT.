@@ -1,0 +1,60 @@
+{
+    "parameters": [
+        {
+            "expr": "6",
+            "name": "R_O",
+            "value": "6"
+        },
+        {
+            "expr": "1",
+            "name": "R_I",
+            "value": "1"
+        },
+        {
+            "expr": "5",
+            "name": "Center",
+            "value": "5"
+        },
+        {
+            "expr": "545",
+            "name": "Ele",
+            "value": "545"
+        },
+        {
+            "expr": "530",
+            "name": "REFL",
+            "value": "530"
+        },
+        {
+            "expr": "430",
+            "name": "DRIV",
+            "value": "430"
+        },
+        {
+            "expr": "9",
+            "name": "B_O",
+            "value": "9"
+        },
+        {
+            "expr": "8",
+            "name": "B_I",
+            "value": "8"
+        },
+        {
+            "expr": "20",
+            "name": "Z",
+            "value": "20"
+        },
+        {
+            "expr": "5",
+            "name": "IZ",
+            "value": "5"
+        },
+        {
+            "expr": "10",
+            "name": "W",
+            "value": "10"
+        }
+    ],
+    "version": 1
+}

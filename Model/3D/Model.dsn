@@ -1,0 +1,305 @@
+*** File Version: 21.00
+
+Number of ports: 1
+Portnames: "1"
+Modenumbers: 1
+Porttypes: 1
+Portlabels: ""
+StaticSources:
+ThermalSources:
+FloquetPortNames:
+FloquetPortModes:
+SchematicPortNames:
+SchematicPortLabels:
+Terminals:
+StaticToReferenceTable:
+ThermalToReferenceTable:
+TerminalToReferenceTable:
+PortToReferenceTable: "1" "1'"
+FloquetToReferenceTable:
+SchematicToReferenceTable:
+StaticSourceGroups:
+ThermalSourceGroups:
+TerminalSourceGroups:
+PortSourceGroups:
+FloquetPortSourceGroups:
+SchematicPortSourceGroups:
+Number of frequency-points: 1
+Fmin: 1.000000e+08
+Fmax: 2.000000e+08
+Fscale: 1.000000e+06
+
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 1
+Modenumber: 1
+Modetype: 6
+Zline: 5.000000e+01 0.000000e+00
+Fdev: 1.500000e+08
+Fmin: 1.000000e+08
+Fmax: 2.000000e+08
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+
+
+*** newmonitor
+monname: "farfield (f=100)"
+nmonfrequencies: 1
+monfrequencies: "100" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=140)"
+nmonfrequencies: 1
+monfrequencies: "140" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=144)"
+nmonfrequencies: 1
+monfrequencies: "144" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=145)"
+nmonfrequencies: 1
+monfrequencies: "145" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=146)"
+nmonfrequencies: 1
+monfrequencies: "146" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=150)"
+nmonfrequencies: 1
+monfrequencies: "150" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=200)"
+nmonfrequencies: 1
+monfrequencies: "200" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=150)"
+nmonfrequencies: 1
+monfrequencies: "150" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=148)"
+nmonfrequencies: 1
+monfrequencies: "148" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=146)"
+nmonfrequencies: 1
+monfrequencies: "146" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=144)"
+nmonfrequencies: 1
+monfrequencies: "144" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=142)"
+nmonfrequencies: 1
+monfrequencies: "142" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=140)"
+nmonfrequencies: 1
+monfrequencies: "140" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=200)"
+nmonfrequencies: 1
+monfrequencies: "200" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=200)"
+nmonfrequencies: 1
+monfrequencies: "200" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=150)"
+nmonfrequencies: 1
+monfrequencies: "150" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=146)"
+nmonfrequencies: 1
+monfrequencies: "146" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=145)"
+nmonfrequencies: 1
+monfrequencies: "145" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=145)"
+nmonfrequencies: 1
+monfrequencies: "145" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=144)"
+nmonfrequencies: 1
+monfrequencies: "144" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=140)"
+nmonfrequencies: 1
+monfrequencies: "140" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=100)"
+nmonfrequencies: 1
+monfrequencies: "100" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=100)"
+nmonfrequencies: 1
+monfrequencies: "100" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
